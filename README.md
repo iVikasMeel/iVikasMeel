@@ -16,7 +16,7 @@
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Travelling, meetups & tech events.
 - 🚀 &nbsp; I’m currently learning Full Stack Web Development.
-- :computer: &nbsp; Most favourire code line `console.log("hello world");`
+- :computer: &nbsp; Most favourite code line `console.log("hello world");`
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iVikasMeel).
 - 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 - 📝 &nbsp; Checkout my [Resume]().
