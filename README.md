@@ -57,7 +57,7 @@
 
 ### ☄️ Github Streaks:
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iVikasMeel&theme=transparent" alt="GitHub Streak" /></a>
+    <img src="https://streak-stats.demolab.com?user=iVikasMeel&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ### ⚡ Github Stats:
