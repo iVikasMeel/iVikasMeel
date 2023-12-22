@@ -57,7 +57,7 @@
 
 ### ☄️ Github Streaks:
 <p align="center">
-    <img alt="Vikas Meel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ivikasmeel&theme=tokyonight&hide_border=true"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iVikasMeel&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
 ### ⚡ Github Stats:
