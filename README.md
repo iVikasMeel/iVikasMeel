@@ -10,7 +10,7 @@
 
 ### Talking about Personal Stuffs:
 
-<img align="right" height="250" width="400" alt="Vikas Meel" src="https://raw.githubusercontent.com/iVikasMeel/assets/ivikasmeel.gif" />
+<img align="right" height="250" width="400" alt="Vikas Meel" src="https://github.com/iVikasMeel/iVikasMeel/blob/main/assets/ivikasmeel.gif" />
 
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading tech blogs whenever possible.
