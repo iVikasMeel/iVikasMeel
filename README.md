@@ -1,4 +1,4 @@
-<img width="1584px" height="396px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/gif.gif" >
+<img height="400" width="400" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/gif.gif" >
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ivikasmeel&label=Profile%20views&color=0e75b6&style=flat" alt="ivikasmeel" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
