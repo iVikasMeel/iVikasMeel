@@ -1,3 +1,5 @@
+[![MasterHead](https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/gif.gif)]
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ivikasmeel&label=Profile%20views&color=0e75b6&style=flat" alt="ivikasmeel" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"  height="22px">, I'm [Vikas Meel!](https://github.com/ivikasmeel) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
