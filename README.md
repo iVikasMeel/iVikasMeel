@@ -1,4 +1,5 @@
-<img height="300" width="1000" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/bg.png" >
+<img align="center" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/bg.png" style="max-width: 100%;">
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ivikasmeel&label=Profile%20views&color=0e75b6&style=flat" alt="ivikasmeel" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
