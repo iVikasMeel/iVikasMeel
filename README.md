@@ -65,8 +65,8 @@
 ### ⚡ Github Stats:
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=ivikasmeel&theme=react" alt="Farhan Ahmed Nahid's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivikasmeel&langs_count=10&w_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Farhan Ahmed Nahid's stats"/>
+	<img src="https://streak-stats.demolab.com?user=ivikasmeel" alt="Vikas Meel's stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivikasmeel&langs_count=10&w_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Vikas Meel's stats"/>
 	
 </p>
 
