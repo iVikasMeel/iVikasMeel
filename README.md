@@ -22,7 +22,6 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iVikasMeel).
 - 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 - 📝 &nbsp; Checkout my [Resume]().
-- 
 
 ### Connect With Me
 
