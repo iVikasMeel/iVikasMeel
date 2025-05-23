@@ -14,7 +14,7 @@
 
 <img align="right" height="255" width="400" alt="Vikas Meel" src="https://github.com/iVikasMeel/iVikasMeel/blob/main/assets/ivikasmeel.gif" />
 
-- 💻 &nbsp; Passionate about modern tech & building innovative web apps.
+- 💻 &nbsp; Passionate about modern technology and building innovative web applications.
 - 📰 &nbsp; Tech blog enthusiast, always updated with the latest trends.
 - 🚀 &nbsp; Currently focused on mastering Full Stack Web Development.
 - 🧠 &nbsp; Favourite line of code: `console.log("Hello World");`.
