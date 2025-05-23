@@ -55,17 +55,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=0078D6)
 
 ---
-
-### ☄️ Github Streaks:
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=ivikasmeel&theme=transparent" alt="GitHub Streak" />
-</p>
-
-### ⚡ Github Stats:
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ivikasmeel&show_icons=true&hide_border=true&theme=tokyonight" alt="Vikas Meel's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivikasmeel&langs_count=10&w_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Vikas Meel's stats" />
-</p>
-
---- 
