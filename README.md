@@ -22,6 +22,8 @@
 - 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 - 📝 &nbsp; Checkout my [Resume]().
 
+</br>
+
 ---
 
 ### 🛠 Languages and Tools:
