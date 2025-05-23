@@ -22,8 +22,6 @@
 - 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 - 📝 &nbsp; Checkout my [Resume]().
 
-<br />
-
 ---
 
 ### 🛠 Languages and Tools:
@@ -110,5 +108,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/ivikasmeel/">
   <img align="left" alt="Vikas Meel | LinkedIn" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/linkedin.png" />
 </a>
+
+<br />
 
 ---
