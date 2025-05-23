@@ -22,20 +22,6 @@
 - 👾 &nbsp; Fun Fact: In JavaScript, <em>equal</em> doesn’t always mean <em>equal</em>! 😹
 - 📝 &nbsp; Feel free to check out my [resume]() for more details.
 
-### Connect With Me
-
-<a target="_blank" href="https://twitter.com/ivikasmeel">
-  <img align="left" alt="Vikas Meel | Twitter" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/twitter.png" />
-</a>
-<a target="_blank" href="https://www.instagram.com//">
-  <img align="left" alt="Vikas Meel | Instagram" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/instagram.png" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/ivikasmeel/">
-  <img align="left" alt="Vikas Meel | LinkedIn" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/linkedin.png" />
-</a>
-
-<br />
-
 ---
 
 ### 🛠 Languages and Tools:
@@ -108,5 +94,21 @@
  <a href="https://github.com/ivikasmeel"><img alt="Vikas Meel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ivikasmeel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ivikasmeel"><img alt="Vikas Meel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivikasmeel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
 </details>
+
+---
+
+### Connect With Me
+
+<a target="_blank" href="https://twitter.com/ivikasmeel">
+  <img align="left" alt="Vikas Meel | Twitter" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/twitter.png" />
+</a>
+<a target="_blank" href="https://www.instagram.com//">
+  <img align="left" alt="Vikas Meel | Instagram" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/instagram.png" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/ivikasmeel/">
+  <img align="left" alt="Vikas Meel | LinkedIn" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/linkedin.png" />
+</a>
+
+<br />
 
 ---
