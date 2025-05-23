@@ -14,11 +14,11 @@
 
 <img align="right" height="255" width="400" alt="Vikas Meel" src="https://github.com/iVikasMeel/iVikasMeel/blob/main/assets/ivikasmeel.gif" />
 
-- 💻 &nbsp; Passionate about exploring modern tech stacks and building innovative web applications.
-- 📰 &nbsp; Avid reader of tech blogs and always staying updated with the latest industry trends.
+- 💻 &nbsp; Passionate about modern tech and building innovative web apps.
+- 📰 &nbsp; Tech blog enthusiast, always updated with the latest trends.
 - 🚀 &nbsp; Currently focused on mastering Full Stack Web Development.
-- 🧠 &nbsp; Favourite line of code: `console.log("Hello World");` — where it all begins.
-- 👨🏻‍💻 &nbsp; You can find most of my work and personal projects on  [Github](https://github.com/iVikasMeel).
+- 🧠 &nbsp; Favourite line of code: `console.log("Hello World");`.
+- 👨🏻‍💻 &nbsp; Most of my work and projects are on [Github](https://github.com/iVikasMeel).
 - 👾 &nbsp; Fun Fact: In JavaScript, <em>equal</em> doesn’t always mean <em>equal</em>! 😹
 - 📝 &nbsp; Feel free to check out my [resume]() for more details.
 
