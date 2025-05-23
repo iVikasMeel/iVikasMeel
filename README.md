@@ -34,6 +34,8 @@
   <img align="left" alt="Vikas Meel | LinkedIn" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/linkedin.png" />
 </a>
 
+<br />
+
 ---
 
 ### 🛠 Languages and Tools:
