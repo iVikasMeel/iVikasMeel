@@ -6,7 +6,7 @@
 
 ### Glad to see you here! :octocat:
 
-> I'm a Front-End Web Developer from India, with a strong passion for technology and problem-solving, focused on building user-friendly web interfaces and developing innovative web-based features, always exploring new ideas to enhance functionality and user experience, actively contributing to the tech community by sharing knowledge, and enjoying tech articles and video games in my free time.
+> I'm a **Front-End Web Developer** from India, with a strong passion for technology and problem-solving, focused on building user-friendly web interfaces and developing innovative web-based features, always exploring new ideas to enhance functionality and user experience, actively contributing to the tech community by sharing knowledge, and enjoying tech articles and video games in my free time.
 
 ---
 
