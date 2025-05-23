@@ -6,7 +6,9 @@
 
 ### Glad to see you here! :octocat:
 
-> I'm a **Front End Web Developer**. An enthusiast of technology always enjoys coding, likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. I live in Rajasthan, India.  In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles & play video games during my free time.
+> I'm a Front-End Web Developer with a strong passion for technology and problem-solving. I enjoy building user-friendly web interfaces and am particularly interested in developing innovative, web-based features and modules. Always eager to explore new ideas, I actively seek opportunities to enhance functionality and improve user experience. 
+
+> Based in Rajasthan, India, I also contribute to the tech community by sharing knowledge and helping others grow. In my spare time, I enjoy reading tech articles and playing video games to unwind and stay inspired.
 
 ---
 
@@ -14,13 +16,13 @@
 
 <img align="right" height="255" width="400" alt="Vikas Meel" src="https://github.com/iVikasMeel/iVikasMeel/blob/main/assets/ivikasmeel.gif" />
 
-- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
-- 📰 &nbsp; Reading tech blogs whenever possible.
-- 🚀 &nbsp; I’m currently learning Full Stack Web Development.
-- 🧠 &nbsp; Favourite line of code: `console.log("Hello World");`
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iVikasMeel).
-- 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
-- 📝 &nbsp; Checkout my [Resume]().
+- 💻 &nbsp; Passionate about exploring modern tech stacks and building innovative web applications.
+- 📰 &nbsp; Avid reader of tech blogs and always staying updated with the latest industry trends.
+- 🚀 &nbsp; Currently focused on mastering Full Stack Web Development.
+- 🧠 &nbsp; Favourite line of code: `console.log("Hello World");` — where it all begins.
+- 👨🏻‍💻 &nbsp; You can find most of my work and personal projects on  [Github](https://github.com/iVikasMeel).
+- 👾 &nbsp; Fun Fact: In JavaScript, <em>equal</em> doesn’t always mean <em>equal</em>! 😹
+- 📝 &nbsp; Feel free to check out my [resume]() for more details.
 
 ### Connect With Me
 
