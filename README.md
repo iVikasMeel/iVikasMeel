@@ -58,9 +58,6 @@
 <a target="_blank" href="https://twitter.com/ivikasmeel">
   <img align="left" alt="Vikas Meel | Twitter" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/twitter.png" />
 </a>
-<a target="_blank" href="https://www.instagram.com//">
-  <img align="left" alt="Vikas Meel | Instagram" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/instagram.png" />
-</a>
 <a target="_blank" href="https://www.linkedin.com/in/ivikasmeel/">
   <img align="left" alt="Vikas Meel | LinkedIn" width="25px" src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/linkedin.png" />
 </a>
