@@ -12,7 +12,7 @@
 
 ### Talking about Personal Stuffs:
 
-<img align="right" height="225" width="400" alt="Vikas Meel" src="https://github.com/iVikasMeel/iVikasMeel/blob/main/assets/ivikasmeel.gif" />
+<img align="right" height="215" width="400" alt="Vikas Meel" src="https://github.com/iVikasMeel/iVikasMeel/blob/main/assets/ivikasmeel.gif" />
 
 - 💻 &nbsp; Passionate about modern technology and building innovative web applications.
 - 📰 &nbsp; Tech blog enthusiast, always updated with the latest trends.
